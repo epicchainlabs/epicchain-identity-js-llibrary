@@ -1,6 +1,4 @@
-<p align="center">
-  **EpicChain Identity JavaScript SDK**
-</p>
+# EpicChain Identity JavaScript SDK
 
 <p align="center">
   <a href="https://github.com/epicchainlabs/epicchain-identity-js-llibrary/blob/master/LICENSE">
@@ -8,7 +6,7 @@
   </a>
 </p>
 
-# Overview
+## Overview
 
 Welcome to the **EpicChain Identity JavaScript SDK**! This sophisticated library is designed to provide seamless integration with the EpicChain blockchain platform, offering powerful tools for managing self-sovereign identities. By leveraging this SDK, developers can easily handle various identity-related functionalities directly within their JavaScript applications. Whether you're working on a web app, a Node.js server, or any other JavaScript environment, the EpicChain Identity SDK is here to help you manage wallets, issue and verify claims, and interact with self-sovereign identities on the EpicChain network.
 
