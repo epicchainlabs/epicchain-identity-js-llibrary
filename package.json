@@ -29,9 +29,9 @@
   "author": "Swisscom Blockchain AG",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/swisscom-blockchain/seraph-id-sdk/issues"
+    "url": "https://github.com/epicchainlabs/epicchain-identity-js-llibrary/issues"
   },
-  "homepage": "https://github.com/swisscom-blockchain/seraph-id-sdk#readme",
+  "homepage": "https://github.com/epicchainlabs/epicchain-identity-js-llibrary#readme",
   "devDependencies": {
     "@types/crypto-js": "^4.0.1",
     "@types/jest": "^26.0.2",
