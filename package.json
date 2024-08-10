@@ -1,7 +1,7 @@
 {
-  "name": "@sbc/seraph-id-sdk",
-  "version": "3.0.1",
-  "description": "Seraph ID SDK",
+  "name": "epicchain-identity-js-llibrary",
+  "version": "1.0.1",
+  "description": "EpicChain Identity JavaScript SDK",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
